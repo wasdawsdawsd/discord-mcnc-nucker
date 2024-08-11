@@ -1,11 +1,11 @@
 # discord-mcnc-nucker
-node.js discord nucker (discord chat ver)
+## node.js discord nucker (discord chat ver)
 
-how to use : 
+# how to use : 
 
 
 
-not console ver:
+## not console ver:
 download node.js for https://nodejs.org/en
 open install.bat
 Insert the token into the token.txt file.
@@ -15,7 +15,7 @@ injoy!
 
 
 
-console ver:
+## console ver:
 download node.js for https://nodejs.org/en
 open install.bat
 Insert the token into the token.txt file.
@@ -23,5 +23,5 @@ Edit the config.json file.
 start console mcnc.bat.
 injoy!
 
-https://discord.gg/9BfXEver
+# [discord server](https://discord.gg/9BfXEver)
 free tools for discord
