@@ -23,5 +23,8 @@ Edit the config.json file.
 start console mcnc.bat.
 injoy!
 
-# [discord server](https://discord.gg/9BfXEver)
+# [discord server](https://discord.gg/wfkU2gEW)
 free tools for discord
+
+
+[guns](guns.lol/emu)
